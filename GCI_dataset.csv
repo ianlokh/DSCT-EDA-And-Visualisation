@@ -1,0 +1,399 @@
+Edition;Series code;Series;Attribute;KHM;IDN;MYS;PHL;SGP;THA;VNM
+2014-2015;1.03;           1.03 Diversion of public funds, 1-7 (best);Value;2.553623851;3.400887151;4.756993905;3.082606978;6.0730431;2.620698335;3.154841352
+2014-2015;1.03;           1.03 Diversion of public funds, 1-7 (best);Rank;113;63;26;78;6;108;76
+2014-2015;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Value;2.752670338;3.582616792;4.915584196;3.618667095;6.476501627;3.660534502;3.204349435
+2014-2015;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Rank;129;87;37;86;3;84;109
+2014-2015;1.16;           1.16 Reliability of police services, 1-7 (best);Value;2.94676017;4.13186904;5.131924243;3.636906598;6.161861813;3.200921393;3.668698589
+2014-2015;1.16;           1.16 Reliability of police services, 1-7 (best);Rank;123;67;35;101;8;113;99
+2014-2015;3.02;           3.02 Gross national savings, % GDP*;Value;14.9;30.373;30.092;22.897;44.635;28.531;33.234
+2014-2015;3.02;           3.02 Gross national savings, % GDP*;Rank;107;24;25;51;8;27;17
+2014-2015;3.03;           3.03 Inflation, annual % change*;Value;2.953;6.413;2.105;2.933;2.359;2.185;6.595
+2014-2015;3.03;           3.03 Inflation, annual % change*;Rank;58;112;1;57;1;1;113
+2014-2015;3.04;           3.04 General government debt, % GDP*;Value;28.121;26.105;58.152;38.272;103.764;45.265;54.978
+2014-2015;3.04;           3.04 General government debt, % GDP*;Rank;30;27;97;58;133;78;93
+2014-2015;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Value;4.435092475;3.860336302;5.11510181;4.888727583;6.128996914;4.622934566;4.491731253
+2014-2015;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Rank;112;130;83;94;38;105;110
+2014-2015;4.05;           4.05 HIV prevalence, % adult pop.*;Value;0.8;0.4;0.4;0.1;0.1;1.1;0.4
+2014-2015;4.05;           4.05 HIV prevalence, % adult pop.*;Rank;104;75;75;1;1;110;75
+2014-2015;4.1;           4.10 Primary education enrollment, net %*;Value;98.38292;92.21828;95.47;88.21835;100;95.60995;98.05641
+2014-2015;4.1;           4.10 Primary education enrollment, net %*;Rank;24;85;60;105;1;58;29
+2014-2015;5.01;           5.01 Secondary education enrollment, gross %*;Value;45.00671;82.53893;67.24266;84.59854;107.1;86.98294;75.2
+2014-2015;5.01;           5.01 Secondary education enrollment, gross %*;Rank;125;92;108;89;16;79;98
+2014-2015;5.02;           5.02 Tertiary education enrollment, gross %*;Value;15.83411;31.51226;35.97491;28.19964;81.3;51.23354;24.59961
+2014-2015;5.02;           5.02 Tertiary education enrollment, gross %*;Rank;101;77;72;82;10;54;88
+2014-2015;5.03;           5.03 Quality of the education system, 1-7 (best);Value;3.176269518;4.464125;5.258416323;4.546944286;5.797279338;3.449850371;3.336011506
+2014-2015;5.03;           5.03 Quality of the education system, 1-7 (best);Rank;101;32;10;29;4;87;94
+2014-2015;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Value;4.270725413;4.095399991;5.099196489;4.502788442;5.485548606;4.459931577;4.260381104
+2014-2015;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Rank;88;103;9;51;3;55;91
+2014-2015;6.13;           6.13 Burden of customs procedures, 1-7 (best);Value;3.08742455;4.029084018;5.225164115;3.528628812;6.143512019;3.914682471;3.595978005
+2014-2015;6.13;           6.13 Burden of customs procedures, 1-7 (best);Rank;128;68;20;99;1;74;94
+2014-2015;6.14;           6.14 Imports as a percentage of GDP*;Value;93.68999294;25.4184746;80.00118454;29.6787534;167.4884359;78.92948209;85.09365931
+2014-2015;6.14;           6.14 Imports as a percentage of GDP*;Rank;9;129;24;119;2;25;16
+2014-2015;8.06;           8.06 Soundness of banks, 1-7 (best);Value;4.499863946;5.107119857;5.704453152;5.529789783;6.558788868;5.696766693;3.484468039
+2014-2015;8.06;           8.06 Soundness of banks, 1-7 (best);Rank;88;60;35;46;4;37;132
+2014-2015;10.03;           10.03 GDP (PPP$ billions)*;Value;39.69;1292.848;525.698;456.418;348.7;673.725;359.796
+2014-2015;10.03;           10.03 GDP (PPP$ billions)*;Rank;96;15;29;31;39;24;38
+2014-2015;10.04;           10.04 Exports as a percentage of GDP*;Value;74.21828462;23.61273205;85.61099;28.03333033;178.1290576;74.1632522;83.55465658
+2014-2015;10.04;           10.04 Exports as a percentage of GDP*;Rank;21;119;15;102;2;22;16
+2014-2015;10.01;           10.01 Domestic market size index, 1–7 (best)*;Value;2.99915286;5.252672184;4.591223053;4.545613799;4.27573219;4.830163509;4.383612603
+2014-2015;10.01;           10.01 Domestic market size index, 1–7 (best)*;Rank;92;15;29;30;43;23;36
+2014-2015;10.02;           10.02 Foreign market size index, 1–7 (best)*;Value;4.259296451;5.598611429;5.820936206;5.100531837;6.005473684;5.880820282;5.589818894
+2014-2015;10.02;           10.02 Foreign market size index, 1–7 (best)*;Rank;79;23;20;42;13;16;25
+2013-2014;1.03;           1.03 Diversion of public funds, 1-7 (best);Value;3.122043015;3.384653737;4.230445111;3.140305047;6.058704407;2.744096062;3.2195314
+2013-2014;1.03;           1.03 Diversion of public funds, 1-7 (best);Rank;81;60;42;79;5;101;74
+2013-2014;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Value;2.859167535;3.311445878;4.696266098;3.311551216;6.507901988;3.756668376;3.114859208
+2013-2014;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Rank;124;106;44;105;3;77;116
+2013-2014;1.16;           1.16 Reliability of police services, 1-7 (best);Value;3.298133588;4.022306834;4.912013889;3.767148019;6.257133687;3.540607654;3.757148732
+2013-2014;1.16;           1.16 Reliability of police services, 1-7 (best);Rank;115;79;42;94;5;109;95
+2013-2014;3.02;           3.02 Gross national savings, % GDP*;Value;13.454;32.57;31.861;22.293;45.6;30.589;30.723
+2013-2014;3.02;           3.02 Gross national savings, % GDP*;Rank;109;19;20;59;7;24;22
+2013-2014;3.03;           3.03 Inflation, annual % change*;Value;2.925;4.259;1.664;3.132;4.575;3.015;9.103
+2013-2014;3.03;           3.03 Inflation, annual % change*;Rank;44;80;1;54;84;52;127
+2013-2014;3.04;           3.04 General government debt, % GDP*;Value;28.503;24.004;55.474;41.919;111.017;44.252;52.099
+2013-2014;3.04;           3.04 General government debt, % GDP*;Rank;37;30;105;72;141;78;96
+2013-2014;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Value;4.564001426;3.790382754;5.028400014;5.016722458;5.882807323;4.840474589;4.447121956
+2013-2014;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Rank;105;130;88;89;47;95;112
+2013-2014;4.05;           4.05 HIV prevalence, % adult pop.*;Value;0.6;0.3;0.4;0.1;0.1;1.2;0.5
+2013-2014;4.05;           4.05 HIV prevalence, % adult pop.*;Rank;92;60;78;11;11;116;88
+2013-2014;4.1;           4.10 Primary education enrollment, net %*;Value;98.24629;95.82678;95.89143;88.278;100;89.68001;99.34061
+2013-2014;4.1;           4.10 Primary education enrollment, net %*;Rank;31;56;55;108;1;101;15
+2013-2014;5.01;           5.01 Secondary education enrollment, gross %*;Value;44.37776;80.74757;69.09548;84.82232;107;78.22468;77.22363
+2013-2014;5.01;           5.01 Secondary education enrollment, gross %*;Rank;125;92;105;83;18;94;96
+2013-2014;5.02;           5.02 Tertiary education enrollment, gross %*;Value;14.49954;24.89238;42.28385;28.22816;72;46.42392;24.38244
+2013-2014;5.02;           5.02 Tertiary education enrollment, gross %*;Rank;104;87;62;81;20;55;89
+2013-2014;5.03;           5.03 Quality of the education system, 1-7 (best);Value;3.603108897;4.3279972;4.995688743;4.275146869;5.773254818;3.574906175;3.392155293
+2013-2014;5.03;           5.03 Quality of the education system, 1-7 (best);Rank;76;36;19;40;3;78;95
+2013-2014;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Value;4.253127721;4.303551451;4.791965251;4.396539003;5.566201808;4.499244738;4.0147648
+2013-2014;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Rank;80;71;30;60;4;50;104
+2013-2014;6.13;           6.13 Burden of customs procedures, 1-7 (best);Value;3.522992485;4.009810011;5.049591881;3.21893504;6.193044695;3.916609209;3.537600395
+2013-2014;6.13;           6.13 Burden of customs procedures, 1-7 (best);Rank;101;74;23;130;1;80;99
+2013-2014;6.14;           6.14 Imports as a percentage of GDP*;Value;87.95733767;25.58192395;78.6226393;31.49008913;179.6086693;82.14809347;91.36040784
+2013-2014;6.14;           6.14 Imports as a percentage of GDP*;Rank;13;134;26;120;2;22;11
+2013-2014;8.06;           8.06 Soundness of banks, 1-7 (best);Value;4.764619824;5.012530474;5.670746805;5.718973543;6.508590804;5.694019028;3.73494859
+2013-2014;8.06;           8.06 Soundness of banks, 1-7 (best);Rank;84;70;40;36;5;39;134
+2013-2014;10.03;           10.03 GDP (PPP$ billions)*;Value;36.645;1216.738;498.477;424.355;326.506;651.856;320.677
+2013-2014;10.03;           10.03 GDP (PPP$ billions)*;Rank;98;15;29;31;40;24;41
+2013-2014;10.04;           10.04 Exports as a percentage of GDP*;Value;76.24757521;23.96949654;87.3830212;27.84417341;195.8451237;76.11929738;89.71515933
+2013-2014;10.04;           10.04 Exports as a percentage of GDP*;Rank;20;126;15;105;2;21;13
+2013-2014;10.01;           10.01 Domestic market size index, 1–7 (best)*;Value;2.896181906;5.233028904;4.547284072;4.524315562;4.198530679;4.834246109;4.318857325
+2013-2014;10.01;           10.01 Domestic market size index, 1–7 (best)*;Rank;95;15;29;30;45;22;39
+2013-2014;10.02;           10.02 Foreign market size index, 1–7 (best)*;Value;4.242473411;5.591489152;5.82221454;5.071819487;6.043027805;5.897139362;5.583645829
+2013-2014;10.02;           10.02 Foreign market size index, 1–7 (best)*;Rank;81;23;20;42;13;16;24
+2013-2014;0.01;   GDP (US$ billions);Value;14.241;878.198;303.527;250.436;276.52;365.564;138.071
+2013-2014;0.01;   GDP (US$ billions);Rank;110;16;35;41;36;32;57
+2013-2014;0.02;   Population (millions);Value;14.305183;242.325638;28.859154;94.85203;5.1837;69.518555;87.84
+2013-2014;0.02;   Population (millions);Rank;61;4;40;12;100;19;13
+2013-2014;0.03;   GDP per capita (US$);Value;933.609;3592.285;10304.173;2614.156;51161.597;5678.477;1527.536
+2013-2014;0.03;   GDP per capita (US$);Rank;128;98;62;107;10;82;114
+2013-2014;0.04;   GDP (PPP) as share (%) of world total;Value;0.044;1.463;0.6;0.51;0.393;0.784;0.386
+2013-2014;0.04;   GDP (PPP) as share (%) of world total;Rank;97;15;29;31;39;24;41
+2012-2013;1.03;           1.03 Diversion of public funds, 1-7 (best);Value;3.411323231;3.363889167;4.241843728;2.75968106;6.186235048;2.991013215;3.2667705
+2012-2013;1.03;           1.03 Diversion of public funds, 1-7 (best);Rank;60;65;42;100;4;82;69
+2012-2013;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Value;3.243648331;3.198246094;4.650497319;3.242702164;6.563600127;3.721712748;3.13218248
+2012-2013;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Rank;107;111;46;108;3;80;118
+2012-2013;1.16;           1.16 Reliability of police services, 1-7 (best);Value;3.511846137;3.909306321;5.022520367;3.63076248;6.358949879;3.627892477;4.61033425
+2012-2013;1.16;           1.16 Reliability of police services, 1-7 (best);Rank;105;85;40;100;3;101;53
+2012-2013;3.02;           3.02 Gross national savings, % GDP*;Value;13.367;33.015;33.667;24.554;44.371;29.998;29.342
+2012-2013;3.02;           3.02 Gross national savings, % GDP*;Rank;110;19;17;47;9;25;26
+2012-2013;3.03;           3.03 Inflation, annual % change*;Value;5.478;5.357;3.2;4.761;5.248;3.807;18.678
+2012-2013;3.03;           3.03 Inflation, annual % change*;Rank;83;81;33;70;79;53;141
+2012-2013;3.04;           3.04 General government debt, % GDP*;Value;28.596;25.03;52.556;40.471;100.792;41.692;37.972
+2012-2013;3.04;           3.04 General government debt, % GDP*;Rank;39;34;100;72;135;77;67
+2012-2013;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Value;4.71386669;3.968922861;4.908397557;5.081125587;5.509849939;4.578284738;4.43094855
+2012-2013;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Rank;98;124;91;83;57;103;110
+2012-2013;4.05;           4.05 HIV prevalence, % adult pop.*;Value;0.5;0.2;0.5;0.1;0.1;1.3;0.4
+2012-2013;4.05;           4.05 HIV prevalence, % adult pop.*;Rank;87;54;87;12;12;114;78
+2012-2013;4.1;           4.10 Primary education enrollment, net %*;Value;95.93016;95.99955;95.89143;88.278;100;89.68001;98.01475
+2012-2013;4.1;           4.10 Primary education enrollment, net %*;Rank;45;44;46;101;1;97;26
+2012-2013;5.01;           5.01 Secondary education enrollment, gross %*;Value;46.17507;77.15272;68.29508;84.82232;107;79.2059;77.22363
+2012-2013;5.01;           5.01 Secondary education enrollment, gross %*;Rank;118;95;103;81;15;92;94
+2012-2013;5.02;           5.02 Tertiary education enrollment, gross %*;Value;7.8372;23.11997;40.23617;28.88682;72;47.69904;22.2903
+2012-2013;5.02;           5.02 Tertiary education enrollment, gross %*;Rank;118;85;61;76;19;54;87
+2012-2013;5.03;           5.03 Quality of the education system, 1-7 (best);Value;3.933195911;4.131066338;5.144323262;4.138817547;5.810326806;3.539714431;3.60161025
+2012-2013;5.03;           5.03 Quality of the education system, 1-7 (best);Rank;58;47;14;45;3;78;72
+2012-2013;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Value;4.109303197;4.289884432;4.870779889;4.255731167;5.901019667;4.316839723;3.5918038
+2012-2013;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Rank;88;75;28;76;3;71;128
+2012-2013;6.13;           6.13 Burden of customs procedures, 1-7 (best);Value;3.89919815;3.990612991;5.005359572;3.170836067;6.23606523;3.776068462;3.40143795
+2012-2013;6.13;           6.13 Burden of customs procedures, 1-7 (best);Rank;79;73;23;126;1;86;114
+2012-2013;6.14;           6.14 Imports as a percentage of GDP*;Value;83.56908568;24.61614722;80.72599092;35.67013387;183.2839448;80.71435558;96.52617586
+2012-2013;6.14;           6.14 Imports as a percentage of GDP*;Rank;20;132;24;97;2;25;9
+2012-2013;8.06;           8.06 Soundness of banks, 1-7 (best);Value;4.817175061;4.60442013;5.724013391;5.658566707;6.4870442;5.630654708;4.19332885
+2012-2013;8.06;           8.06 Soundness of banks, 1-7 (best);Rank;89;99;37;41;8;45;125
+2012-2013;10.03;           10.03 GDP (PPP$ billions)*;Value;33.463;1124.65;447.279;390.408;314.911;602.074;299.985
+2012-2013;10.03;           10.03 GDP (PPP$ billions)*;Rank;95;15;29;32;39;24;41
+2012-2013;10.04;           10.04 Exports as a percentage of GDP*;Value;71.07879738;26.18157454;94.264299;29.82125214;205.7238684;77.91318657;86.11306364
+2012-2013;10.04;           10.04 Exports as a percentage of GDP*;Rank;23;110;10;96;2;19;14
+2012-2013;10.01;           10.01 Domestic market size index, 1–7 (best)*;Value;2.868488806;5.184178349;4.463898088;4.509317829;4.149181613;4.785978027;4.35779941
+2012-2013;10.01;           10.01 Domestic market size index, 1–7 (best)*;Rank;92;16;31;29;48;23;38
+2012-2013;10.02;           10.02 Foreign market size index, 1–7 (best)*;Value;3.975429412;5.525780223;5.746991364;4.95404237;6.011666712;5.812732285;5.445128295
+2012-2013;10.02;           10.02 Foreign market size index, 1–7 (best)*;Rank;78;23;20;40;12;16;25
+2012-2013;0.01;   GDP (US$ billions);Value;12.861;845.68;278.68;213.129;259.849;345.649;122.722
+2012-2013;0.01;   GDP (US$ billions);Rank;108;16;36;47;38;31;58
+2012-2013;0.02;   Population (millions);Value;14.368791;244.191152;29.029396;95.287479;5.285492;70.739358;89.958956
+2012-2013;0.02;   Population (millions);Rank;59;4;39;12;97;19;13
+2012-2013;0.03;   GDP per capita (US$);Value;851.529;3508.605;9699.695;2223.436;49270.872;5394.362;1374.008
+2012-2013;0.03;   GDP per capita (US$);Rank;123;93;62;105;13;82;112
+2012-2013;0.04;   GDP (PPP) as share (%) of world total;Value;0.042;1.425;0.567;0.495;0.399;0.763;0.38
+2012-2013;0.04;   GDP (PPP) as share (%) of world total;Rank;94;15;29;32;39;24;41
+2011-2012;1.03;           1.03 Diversion of public funds, 1-7 (best);Value;3.236848752;3.3054817;4.446555316;2.252304943;6.460693347;3.27220563;3.35899054
+2011-2012;1.03;           1.03 Diversion of public funds, 1-7 (best);Rank;71;66;40;127;3;67;64
+2011-2012;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Value;3.028630303;3.26154921;4.793443125;3.013838891;6.659576343;3.756815283;3.236756672
+2011-2012;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Rank;117;103;43;119;3;79;104
+2011-2012;1.16;           1.16 Reliability of police services, 1-7 (best);Value;3.381479642;3.73874845;5.029640803;3.277769434;6.417466708;3.718772864;5.17335754
+2011-2012;1.16;           1.16 Reliability of police services, 1-7 (best);Rank;108;88;39;112;2;91;36
+2011-2012;3.02;           3.02 Gross national savings, % GDP*;Value;14.12;33.378;33.113;20.106;46.041;30.652;34.285
+2011-2012;3.02;           3.02 Gross national savings, % GDP*;Rank;109;21;23;70;7;28;17
+2011-2012;3.03;           3.03 Inflation, annual % change*;Value;3.997;5.133;1.7;3.797;2.823;3.272;9.207
+2011-2012;3.03;           3.03 Inflation, annual % change*;Rank;73;96;1;69;1;62;124
+2011-2012;3.04;           3.04 General government debt, % GDP*;Value;30.292;26.936;54.203;47.337;97.179;44.066;52.847
+2011-2012;3.04;           3.04 General government debt, % GDP*;Rank;43;37;98;89;136;86;97
+2011-2012;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Value;4.309062282;4.2463704;5.021899892;5.057473029;5.369596072;4.376190099;4.7316434
+2011-2012;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Rank;105;112;82;80;61;104;94
+2011-2012;4.05;           4.05 HIV prevalence, % adult pop.*;Value;0.5;0.2;0.5;<0.1;0.1;1.3;0.4
+2011-2012;4.05;           4.05 HIV prevalence, % adult pop.*;Rank;88;55;88;1;21;115;79
+2011-2012;4.1;           4.10 Primary education enrollment, net %*;Value;88.58798;95.30157;94.06237;91.6902;96.8;90.05745;93.99601
+2011-2012;4.1;           4.10 Primary education enrollment, net %*;Rank;104;45;61;81;38;95;64
+2011-2012;5.01;           5.01 Secondary education enrollment, gross %*;Value;40.35839;79.45589;68.71363;82.46318;103;77.03507;66.90091
+2011-2012;5.01;           5.01 Secondary education enrollment, gross %*;Rank;121;91;101;81;17;94;103
+2011-2012;5.02;           5.02 Tertiary education enrollment, gross %*;Value;7.01579;23.50048;36.45615;28.69188;63.6;45.03433;9.68371
+2011-2012;5.02;           5.02 Tertiary education enrollment, gross %*;Rank;118;87;66;75;27;54;110
+2011-2012;5.03;           5.03 Quality of the education system, 1-7 (best);Value;3.752647317;4.23144535;5.093450001;3.82562104;5.927880126;3.570001668;3.712908
+2011-2012;5.03;           5.03 Quality of the education system, 1-7 (best);Rank;68;44;14;61;2;77;69
+2011-2012;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Value;4.289928076;4.3152849;4.787968558;4.213115206;6.097483721;4.27263647;3.72313238
+2011-2012;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Rank;83;78;44;89;3;86;129
+2011-2012;6.13;           6.13 Burden of customs procedures, 1-7 (best);Value;3.745102696;3.89986145;4.980079678;2.99473928;6.228639384;3.94759208;3.44822662
+2011-2012;6.13;           6.13 Burden of customs procedures, 1-7 (best);Rank;91;85;25;128;1;82;112
+2011-2012;6.14;           6.14 Imports as a percentage of GDP*;Value;73.95328717;23.24973756;82.69223936;36.48125161;182.69424;71.45352005;89.97743261
+2011-2012;6.14;           6.14 Imports as a percentage of GDP*;Rank;21;130;13;96;2;26;9
+2011-2012;8.06;           8.06 Soundness of banks, 1-7 (best);Value;4.797401677;4.4765737;5.89248442;5.572866726;6.512245877;5.619828985;4.54464284
+2011-2012;8.06;           8.06 Soundness of banks, 1-7 (best);Rank;92;112;28;46;5;43;109
+2011-2012;10.03;           10.03 GDP (PPP$ billions)*;Value;30.181;1029.884;414.428;351.37;291.937;586.877;276.567
+2011-2012;10.03;           10.03 GDP (PPP$ billions)*;Rank;98;15;29;33;40;24;41
+2011-2012;10.04;           10.04 Exports as a percentage of GDP*;Value;57.66563089;24.72611653;97.19279996;33.81150591;208.1749754;71.91587795;76.94540406
+2011-2012;10.04;           10.04 Exports as a percentage of GDP*;Rank;27;109;7;77;2;21;14
+2011-2012;10.01;           10.01 Domestic market size index, 1–7 (best)*;Value;2.818285273;5.135820941;4.411060269;4.423424393;4.07501641;4.755459317;4.32475437
+2011-2012;10.01;           10.01 Domestic market size index, 1–7 (best)*;Rank;95;16;32;31;50;23;38
+2011-2012;10.02;           10.02 Foreign market size index, 1–7 (best)*;Value;3.841311223;5.487203944;5.7684733;5.019527951;6.020781561;5.797129609;5.377089426
+2011-2012;10.02;           10.02 Foreign market size index, 1–7 (best)*;Rank;87;23;18;40;10;16;26
+2011-2012;0.01;   GDP (US$ billions);Value;11.629;706.735;237.959;188.719;222.699;318.85;103.574
+2011-2012;0.01;   GDP (US$ billions);Rank;111;18;37;47;40;30;59
+2011-2012;0.02;   Population (millions);Value;15.1;232.5;27.9;93.6;4.8;68.1;89
+2011-2012;0.02;   Population (millions);Rank;58;4;39;12;97;19;13
+2011-2012;0.03;   GDP per capita (US$);Value;813.798;3015.374;8423.176;2007.362;43116.689;4991.525;1173.548
+2011-2012;0.03;   GDP per capita (US$);Rank;122;93;60;105;15;77;114
+2011-2012;0.04;   GDP (PPP) as share (%) of world total;Value;0.04;1.388;0.557;0.473;0.394;0.79;0.372
+2011-2012;0.04;   GDP (PPP) as share (%) of world total;Rank;97;15;29;33;40;24;41
+2010-2011;1.03;           1.03 Diversion of public funds, 1-7 (best);Value;3.022156763;3.537827214;4.112384701;1.99752324;6.431538205;3.343148007;3.301258052
+2010-2011;1.03;           1.03 Diversion of public funds, 1-7 (best);Rank;87;60;47;135;3;65;66
+2010-2011;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Value;2.847852957;3.408486875;4.468991521;2.772979606;6.643586776;3.999203103;3.249691499
+2010-2011;1.05;           1.05 Irregular payments and bribes, 1-7 (best);Rank;124;95;55;128;3;70;107
+2010-2011;1.16;           1.16 Reliability of police services, 1-7 (best);Value;3.221806218;3.959133207;4.630975971;3.421200425;6.431848209;3.788232897;4.925948129
+2010-2011;1.16;           1.16 Reliability of police services, 1-7 (best);Rank;115;80;50;105;2;87;41
+2010-2011;3.02;           3.02 Gross national savings, % GDP*;Value;12.3;32.924;29.9;19.3;40.1;29.533;31.6
+2010-2011;3.02;           3.02 Gross national savings, % GDP*;Rank;110;16;28;74;6;30;17
+2010-2011;3.03;           3.03 Inflation, annual % change*;Value;-0.663;4.814;0.6;3.249;0.211;-0.846;6.717
+2010-2011;3.03;           3.03 Inflation, annual % change*;Rank;12;92;28;73;23;8;105
+2010-2011;3.04;           3.04 General government debt, % GDP*;Value;29.2;31.1;53.7;57.3;113.1430678;49;53.7
+2010-2011;3.04;           3.04 General government debt, % GDP*;Rank;45;51;95;102;130;86;95
+2010-2011;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Value;3.938522685;4.722393691;4.766407256;5.020091079;5.782457114;4.413045979;5.01823271
+2010-2011;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Rank;114;95;93;83;47;106;84
+2010-2011;4.05;           4.05 HIV prevalence, % adult pop.*;Value;0.8;0.2;0.5;<0.1;0.2;1.4;0.5
+2010-2011;4.05;           4.05 HIV prevalence, % adult pop.*;Rank;97;55;82;1;55;111;82
+2010-2011;4.1;           4.10 Primary education enrollment, net %*;Value;88.58797852;95.69759964;96.09933813;91.69019851;96.8;89.07071189;93.99601049
+2010-2011;4.1;           4.10 Primary education enrollment, net %*;Rank;104;52;47;82;44;100;71
+2010-2011;5.01;           5.01 Secondary education enrollment, gross %*;Value;40.35838869;74.37964137;68.19017117;82.46317785;103;74.31382354;66.90090827
+2010-2011;5.01;           5.01 Secondary education enrollment, gross %*;Rank;119;95;99;82;15;96;102
+2010-2011;5.02;           5.02 Tertiary education enrollment, gross %*;Value;7.01578642;21.26200643;32.1060525;28.69188021;60;44.65747917;9.5
+2010-2011;5.02;           5.02 Tertiary education enrollment, gross %*;Rank;115;89;73;76;30;54;109
+2010-2011;5.03;           5.03 Quality of the education system, 1-7 (best);Value;3.439696706;4.331276558;4.887408587;3.685085043;6.113708672;3.749468752;3.829144748
+2010-2011;5.03;           5.03 Quality of the education system, 1-7 (best);Rank;82;40;23;69;1;66;61
+2010-2011;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Value;4.441923981;4.698574744;4.311682771;4.297745703;6.239778523;4.584476614;3.984417439
+2010-2011;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Rank;77;58;88;89;5;70;112
+2010-2011;6.13;           6.13 Burden of customs procedures, 1-7 (best);Value;3.451039586;3.863315928;4.814202438;2.996982426;6.303137053;4.137743434;3.554668587
+2010-2011;6.13;           6.13 Burden of customs procedures, 1-7 (best);Rank;115;89;32;129;2;74;106
+2010-2011;6.14;           6.14 Imports as a percentage of GDP*;Value;57.3;21.327;75.405;30.533;177.097;57.892;78.7
+2010-2011;6.14;           6.14 Imports as a percentage of GDP*;Rank;42;124;14;92;2;38;11
+2010-2011;8.06;           8.06 Soundness of banks, 1-7 (best);Value;4.614126634;4.730522102;5.700864029;5.566535584;6.311045335;5.730744966;4.673660129
+2010-2011;8.06;           8.06 Soundness of banks, 1-7 (best);Rank;101;92;33;38;9;30;96
+2010-2011;10.03;           10.03 GDP (PPP$ billions)*;Value;28.092;962.471;382.257;324.692;239.966;539.871;256.584
+2010-2011;10.03;           10.03 GDP (PPP$ billions)*;Rank;99;15;30;35;48;24;40
+2010-2011;10.04;           10.04 Exports as a percentage of GDP*;Value;43.7;24.125;96.865;31.315;196.949;68.439;68.3
+2010-2011;10.04;           10.04 Exports as a percentage of GDP*;Rank;55;102;5;80;1;20;21
+2010-2011;10.01;           10.01 Domestic market size index, 1–7 (best)*;Value;2.80172031;5.115651536;4.337113464;4.385400945;4.032074371;4.662710926;4.29729248
+2010-2011;10.01;           10.01 Domestic market size index, 1–7 (best)*;Rank;96;15;36;33;49;25;39
+2010-2011;10.02;           10.02 Foreign market size index, 1–7 (best)*;Value;3.64466623;5.507864703;5.80361361;4.984520835;5.958270056;5.80225841;5.329533534
+2010-2011;10.02;           10.02 Foreign market size index, 1–7 (best)*;Rank;95;23;16;43;11;17;29
+2010-2011;0.01;   GDP (US$ billions);Value;10.804;539.377;191.463;160.991;177.132;263.889;92.439
+2010-2011;0.01;   GDP (US$ billions);Rank;108;18;42;49;44;33;58
+2010-2011;0.02;   Population (millions);Value;14.8;230;27.5;92;4.7;67.8;88.1
+2010-2011;0.02;   Population (millions);Rank;57;4;39;12;96;19;13
+2010-2011;0.03;   GDP per capita (US$);Value;774.95;2329.449;6896.739;1745.598;37293.417;3939.626;1059.943
+2010-2011;0.03;   GDP per capita (US$);Rank;119;100;64;103;20;83;110
+2010-2011;0.04;   GDP (PPP) as share (%) of world total;Value;0.04;1.378;0.539;0.468;0.337;0.769;0.367
+2010-2011;0.04;   GDP (PPP) as share (%) of world total;Rank;98;15;30;35;48;24;40
+2009-2010;1.03;           1.03 Diversion of public funds, 1-7 (best);Value;2.987550658;3.56922992;4.097329791;2.280629339;6.427952714;3.480230442;3.163501954
+2009-2010;1.03;           1.03 Diversion of public funds, 1-7 (best);Rank;98;59;48;122;4;63;82
+2009-2010;1.16;           1.16 Reliability of police services, 1-7 (best);Value;3.090203722;3.963870911;4.689372881;3.506405372;6.432117757;3.759758681;4.838346224
+2009-2010;1.16;           1.16 Reliability of police services, 1-7 (best);Rank;113;79;48;101;3;88;44
+2009-2010;3.02;           3.02 Gross national savings, % GDP*;Value;14.3;27.924;34.7;17.838;45.1;28.7;30.6
+2009-2010;3.02;           3.02 Gross national savings, % GDP*;Rank;98;40;22;83;10;34;31
+2009-2010;3.03;           3.03 Inflation, annual % change*;Value;19.694;9.777;5.4;9.299;6.514;5.468;23.115
+2009-2010;3.03;           3.03 Inflation, annual % change*;Rank;120;80;40;79;51;41;126
+2009-2010;3.04;           3.04 General government debt, % GDP*;Value;27.5;31.2;41.2;56.297;99.241;38.1;44.4
+2009-2010;3.04;           3.04 General government debt, % GDP*;Rank;49;56;74;101;126;66;81
+2009-2010;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Value;4.095439041;4.821510017;4.968988233;5.234771495;6.212948357;4.328012318;4.932243639
+2009-2010;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Rank;109;88;81;69;26;104;82
+2009-2010;4.05;           4.05 HIV prevalence, % adult pop.*;Value;0.8;0.2;0.5;<0.1;0.2;1.4;0.5
+2009-2010;4.05;           4.05 HIV prevalence, % adult pop.*;Rank;93;54;78;1;54;107;78
+2009-2010;4.1;           4.10 Primary education enrollment, net %*;Value;89.4;94.829;97.453;91.277;97.1;95.05964181;93.433
+2009-2010;4.1;           4.10 Primary education enrollment, net %*;Rank;90;56;28;81;36;53;71
+2009-2010;5.01;           5.01 Secondary education enrollment, gross %*;Value;40.37;73.481;69.072;83.258;102.3;83.378;66.466
+2009-2010;5.01;           5.01 Secondary education enrollment, gross %*;Rank;114;93;98;83;17;82;100
+2009-2010;5.02;           5.02 Tertiary education enrollment, gross %*;Value;5.346844239;17.455;30.243;28.466;59.8;48.261;9.516
+2009-2010;5.02;           5.02 Tertiary education enrollment, gross %*;Rank;114;90;71;74;29;43;107
+2009-2010;5.03;           5.03 Quality of the education system, 1-7 (best);Value;3.030917523;4.073108896;4.843040909;3.849707718;6.2150846;3.605774789;3.298840142
+2009-2010;5.03;           5.03 Quality of the education system, 1-7 (best);Rank;101;44;23;50;1;67;85
+2009-2010;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Value;4.21964816;5.011142834;4.339008272;4.186195505;6.350322014;4.397776473;4.089916358
+2009-2010;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Rank;96;38;83;98;3;80;103
+2009-2010;6.13;           6.13 Burden of customs procedures, 1-7 (best);Value;3.324290141;3.697379707;4.766383672;2.980723841;6.387514529;4.060418074;3.597972346
+2009-2010;6.13;           6.13 Burden of customs procedures, 1-7 (best);Rank;102;83;28;117;1;60;91
+2009-2010;6.14;           6.14 Imports as a percentage of GDP*;Value;68.8;28.625;80.262;38.15;215.268;73.621;93.1
+2009-2010;6.14;           6.14 Imports as a percentage of GDP*;Rank;35;114;17;87;1;22;9
+2009-2010;8.06;           8.06 Soundness of banks, 1-7 (best);Value;4.448946927;4.911011282;5.677211143;5.409657911;6.316919314;5.603278624;4.558117482
+2009-2010;8.06;           8.06 Soundness of banks, 1-7 (best);Rank;114;96;38;58;8;43;111
+2009-2010;10.03;           10.03 GDP (PPP$ billions)*;Value;28.239;908.242;384.119;320.384;238.755;546.095;240.364
+2009-2010;10.03;           10.03 GDP (PPP$ billions)*;Rank;95;16;29;35;45;23;44
+2009-2010;10.04;           10.04 Exports as a percentage of GDP*;Value;56.3;29.764;103.461;37.951;234.341;76.386;79.5
+2009-2010;10.04;           10.04 Exports as a percentage of GDP*;Rank;41;92;5;78;1;19;14
+2009-2010;10.01;           10.01 Domestic market size index, 1–7 (best)*;Value;2.778681696;5.071233518;4.307598797;4.365577541;4.017264274;4.710839266;4.254543509
+2009-2010;10.01;           10.01 Domestic market size index, 1–7 (best)*;Rank;92;16;36;31;49;22;39
+2009-2010;10.02;           10.02 Foreign market size index, 1–7 (best)*;Value;4.050875414;5.646276958;5.863247421;5.196389389;6.05585478;5.890525359;5.450949477
+2009-2010;10.02;           10.02 Foreign market size index, 1–7 (best)*;Rank;85;23;19;41;11;18;29
+2009-2010;0.01;   GDP (US$ billions);Value;11182;511765;222219;168580;181939;273248;89829
+2009-2010;0.01;   GDP (US$ billions);Rank;109;19;38;47;44;34;59
+2009-2010;0.02;   Population (millions);Value;14.7;234.3;27;89.7;4.5;64.3;88.5
+2009-2010;0.02;   Population (millions);Rank;54;4;38;12;94;18;13
+2009-2010;0.03;   GDP per capita (US$);Value;818.081;2246.27;8140.674;1865.951;38972.126;4115.332;1040.35
+2009-2010;0.03;   GDP per capita (US$);Rank;116;94;61;98;22;80;109
+2009-2010;0.04;   GDP (PPP) as share (%) of world total;Value;0.041;1.313;0.561;0.462;0.346;0.803;0.348
+2009-2010;0.04;   GDP (PPP) as share (%) of world total;Rank;92;16;29;35;45;23;44
+2008-2009;1.03;           1.03 Diversion of public funds, 1-7 (best);Value;3.075944757;3.445913144;4.521450213;2.489307631;6.440459439;3.623693203;3.220365326
+2008-2009;1.03;           1.03 Diversion of public funds, 1-7 (best);Rank;92;68;39;117;5;56;84
+2008-2009;1.16;           1.16 Reliability of police services, 1-7 (best);Value;2.88309846;3.879448838;5.096869913;3.471081426;6.459418352;4.244969657;4.727942352
+2008-2009;1.16;           1.16 Reliability of police services, 1-7 (best);Rank;115;85;37;98;6;71;49
+2008-2009;3.02;           3.02 Gross national savings, % GDP*;Value;16.8;27.4;37.5;19.14;51.309;32.9;30.6
+2008-2009;3.02;           3.02 Gross national savings, % GDP*;Rank;93;40;17;84;6;23;28
+2008-2009;3.03;           3.03 Inflation, annual % change*;Value;5.9;6.407;2.106;2.773;2.096;2.229;8.3
+2008-2009;3.03;           3.03 Inflation, annual % change*;Rank;74;79;25;42;24;30;103
+2008-2009;3.04;           3.04 General government debt, % GDP*;Value;30.7;35.7;41.578;55.816;96.268;37.9;42.8
+2008-2009;3.04;           3.04 General government debt, % GDP*;Rank;52;63;74;96;121;66;76
+2008-2009;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Value;4.055898153;5.109565206;5.333350125;5.402339429;6.156437671;4.521214568;5.126797487
+2008-2009;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Rank;109;78;67;61;19;97;75
+2008-2009;4.05;           4.05 HIV prevalence, % adult pop.*;Value;0.8;0.2;0.5;<0.1;0.2;1.4;0.5
+2008-2009;4.05;           4.05 HIV prevalence, % adult pop.*;Rank;95;50;79;1;50;108;79
+2008-2009;4.1;           4.10 Primary education enrollment, net %*;Value;89.93594872;95.51941522;99.87674714;91.44041164;96.6;94.20637946;94.54987823
+2008-2009;4.1;           4.10 Primary education enrollment, net %*;Rank;87;48;1;76;38;61;55
+2008-2009;5.01;           5.01 Secondary education enrollment, gross %*;Value;38.15285322;64.21748089;69.07229912;83.11642096;101.7;78.0772943;64.54801715
+2008-2009;5.01;           5.01 Secondary education enrollment, gross %*;Rank;115;102;95;79;21;85;100
+2008-2009;5.02;           5.02 Tertiary education enrollment, gross %*;Value;4.531829979;16.97604514;28.57729951;28.46632139;55.9;45.90328945;9.465897729
+2008-2009;5.02;           5.02 Tertiary education enrollment, gross %*;Rank;117;91;71;72;31;44;106
+2008-2009;5.03;           5.03 Quality of the education system, 1-7 (best);Value;2.747905208;4.174019329;5.04003926;4.021492052;6.172770535;3.807537271;2.589635932
+2008-2009;5.03;           5.03 Quality of the education system, 1-7 (best);Rank;112;39;18;46;2;53;120
+2008-2009;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Value;4.086777762;5.259609125;4.624330511;4.249999024;6.341113739;4.156274371;4.049916066
+2008-2009;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Rank;105;34;70;95;2;101;110
+2008-2009;6.13;           6.13 Burden of customs procedures, 1-7 (best);Value;2.835870976;3.261298483;4.783006236;2.934040407;6.452900108;4.081400587;3.33816927
+2008-2009;6.13;           6.13 Burden of customs procedures, 1-7 (best);Rank;110;95;27;105;1;52;91
+2008-2009;6.14;           6.14 Imports as a percentage of GDP*;Value;76.6;25.332;89.441;41.776;202.049;65.566;82.5
+2008-2009;6.14;           6.14 Imports as a percentage of GDP*;Rank;18;118;7;71;1;35;13
+2008-2009;8.06;           8.06 Soundness of banks, 1-7 (best);Value;4.443574847;4.560413979;5.875480818;5.553315097;6.548167995;5.515273599;4.685755729
+2008-2009;8.06;           8.06 Soundness of banks, 1-7 (best);Rank;125;121;50;72;13;75;113
+2008-2009;10.03;           10.03 GDP (PPP$ billions)*;Value;25900;837791;357391;299626;228116;519362;221397
+2008-2009;10.03;           10.03 GDP (PPP$ billions)*;Rank;97;16;28;36;44;23;46
+2008-2009;10.04;           10.04 Exports as a percentage of GDP*;Value;68.3;29.362;109.572;41.042;230.904;73.181;78.2
+2008-2009;10.04;           10.04 Exports as a percentage of GDP*;Rank;23;91;4;71;1;19;15
+2008-2009;10.01;           10.01 Domestic market size index, 1–7 (best)*;Value;2.687446783;5.002322024;4.287930418;4.326423781;3.898414896;4.646198583;4.141691071
+2008-2009;10.01;           10.01 Domestic market size index, 1–7 (best)*;Rank;96;16;35;33;53;23;42
+2008-2009;10.02;           10.02 Foreign market size index, 1–7 (best)*;Value;3.793224115;5.449179253;5.741668158;5.013009061;5.928157079;5.722873993;5.22821712
+2008-2009;10.02;           10.02 Foreign market size index, 1–7 (best)*;Rank;79;24;17;40;11;18;29
+2008-2009;0.01;   GDP (US$ billions);Value;8604;432944;186482;144129;161349;245659;70022
+2008-2009;0.01;   GDP (US$ billions);Rank;107;20;38;46;45;32;60
+2008-2009;0.02;   Population (millions);Value;14.6;228.1;26.2;85.9;4.4;65.3;86.4
+2008-2009;0.02;   Population (millions);Rank;53;4;38;13;96;18;12
+2008-2009;0.03;   GDP per capita (US$);Value;600.031;1924.728;6947.643;1624.685;35162.934;3736.824;818.078
+2008-2009;0.03;   GDP per capita (US$);Rank;119;93;59;97;21;75;113
+2008-2009;0.04;   GDP (PPP) as share (%) of world total;Value;0.04;1.299;0.524;0.459;0.342;0.797;0.342
+2008-2009;0.04;   GDP (PPP) as share (%) of world total;Rank;92;16;29;36;45;23;45
+2007-2008;1.03;           1.03 Diversion of public funds, 1-7 (best);Value;3.091809258;3.350748871;4.903143909;2.452024328;6.370928407;3.74048495;3.197226114
+2007-2008;1.03;           1.03 Diversion of public funds, 1-7 (best);Rank;88;77;29;116;5;60;84
+2007-2008;1.16;           1.16 Reliability of police services, 1-7 (best);Value;2.964238423;3.616256542;5.396158736;3.456332294;6.473975116;4.601618357;4.616241844
+2007-2008;1.16;           1.16 Reliability of police services, 1-7 (best);Rank;109;93;31;98;4;51;50
+2007-2008;3.02;           3.02 Gross national savings, % GDP*;Value;13.9;27.2;36.2;19.469;50;31.4;35.5
+2007-2008;3.02;           3.02 Gross national savings, % GDP*;Rank;105;39;20;79;8;26;21
+2007-2008;3.03;           3.03 Inflation, annual % change*;Value;4.8;13.1;3.6;6.2;1;4.6;7.5
+2007-2008;3.03;           3.03 Inflation, annual % change*;Rank;71;126;54;83;3;68;96
+2007-2008;3.04;           3.04 General government debt, % GDP*;Value;36.8;42.3;44.336;64.189;98.308;41.227;44.2
+2007-2008;3.04;           3.04 General government debt, % GDP*;Rank;54;63;69;95;115;61;67
+2007-2008;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Value;3.946530938;6.012666438;5.310602369;5.125802469;5.87779519;4.848019324;5.258256034
+2007-2008;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Rank;107;28;60;74;35;90;64
+2007-2008;4.05;           4.05 HIV prevalence, % adult pop.*;Value;1.6;0.1;0.5;<0.1;0.3;1.4;0.5
+2007-2008;4.05;           4.05 HIV prevalence, % adult pop.*;Rank;109;25;77;1;64;104;77
+2007-2008;4.1;           4.10 Primary education enrollment, net %*;Value;98.85751675;95.54064666;95.44351066;93.97713125;96.4;87.75688539;87.72016594
+2007-2008;4.1;           4.10 Primary education enrollment, net %*;Rank;9;42;43;56;37;87;88
+2007-2008;5.01;           5.01 Secondary education enrollment, gross %*;Value;29.36650986;64.11743348;75.78304734;85.8607377;98;73.15468001;75.78
+2007-2008;5.01;           5.01 Secondary education enrollment, gross %*;Rank;118;96;86;69;32;90;87
+2007-2008;5.02;           5.02 Tertiary education enrollment, gross %*;Value;2.908305369;16.67457722;32.35497062;28.80017673;47;43.00562707;10.16097438
+2007-2008;5.02;           5.02 Tertiary education enrollment, gross %*;Rank;119;86;60;63;36;40;103
+2007-2008;5.03;           5.03 Quality of the education system, 1-7 (best);Value;3.012569897;4.614542623;5.186287913;3.79475891;6.04158496;4.14294686;2.667107229
+2007-2008;5.03;           5.03 Quality of the education system, 1-7 (best);Rank;95;29;15;54;1;41;112
+2007-2008;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Value;3.958256175;5.23493352;4.797697439;4.566165165;6.203686421;4.225849057;3.863875799
+2007-2008;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Rank;101;30;48;63;3;87;106
+2007-2008;6.13;           6.13 Burden of customs procedures, 1-7 (best);Value;2.545454545;3.013513514;4.972972973;3.055555556;6.429824561;4.320754717;3.165775401
+2007-2008;6.13;           6.13 Burden of customs procedures, 1-7 (best);Rank;123;101;22;98;1;43;91
+2007-2008;6.14;           6.14 Imports as a percentage of GDP*;Value;77.1;26.065;98.826;48.344;220.923;69.826;73.6
+2007-2008;6.14;           6.14 Imports as a percentage of GDP*;Rank;18;118;6;57;1;26;19
+2007-2008;8.06;           8.06 Soundness of banks, 1-7 (best);Value;4.376773032;4.485217286;5.9064941;5.338720721;6.541308897;5.474555556;4.792612901
+2007-2008;8.06;           8.06 Soundness of banks, 1-7 (best);Rank;120;118;43;77;20;71;101
+2007-2008;10.03;           10.03 GDP (PPP$ billions)*;Value;44689;959834;312959;462166;145183;597380;284069
+2007-2008;10.03;           10.03 GDP (PPP$ billions)*;Rank;80;15;32;24;55;21;36
+2007-2008;10.04;           10.04 Exports as a percentage of GDP*;Value;68.5;30.879;122.194;46.591;252.587;73.738;71.3
+2007-2008;10.04;           10.04 Exports as a percentage of GDP*;Rank;26;90;4;55;1;20;22
+2007-2008;10.01;           10.01 Domestic market size index, 1–7 (best)*;Value;3.111965274;5.132512259;4.211791549;4.675340757;3.604183993;4.812567371;4.343989145
+2007-2008;10.01;           10.01 Domestic market size index, 1–7 (best)*;Rank;78;15;38;24;59;21;32
+2007-2008;10.02;           10.02 Foreign market size index, 1–7 (best)*;Value;3.753611818;5.27297011;5.443522771;5.0591446;5.415460633;5.538146262;5.018175071
+2007-2008;10.02;           10.02 Foreign market size index, 1–7 (best)*;Rank;69;21;16;25;18;13;26
+2006-2007;1.03;           1.03 Diversion of public funds, 1-7 (best);Value;2.692540323;3.255417964;4.976223314;2.2787713;6.288297905;3.799096556;2.914281179
+2006-2007;1.03;           1.03 Diversion of public funds, 1-7 (best);Rank;96;71;26;112;4;47;87
+2006-2007;1.16;           1.16 Reliability of police services, 1-7 (best);Value;2.962765957;3.281108736;5.236140866;3.276943109;6.5;4.602124506;4.575196745
+2006-2007;1.16;           1.16 Reliability of police services, 1-7 (best);Rank;104;87;29;88;2;43;44
+2006-2007;3.02;           3.02 Gross national savings, % GDP*;Value;11.23654753;20.45677623;35.35289415;18.74807095;47.06775784;28.6419016;32.53539533
+2006-2007;3.02;           3.02 Gross national savings, % GDP*;Rank;108;60;10;71;5;22;15
+2006-2007;3.03;           3.03 Inflation, annual % change*;Value;5.8;10.5;3;7.6;0.5;4.5;8
+2006-2007;3.03;           3.03 Inflation, annual % change*;Rank;75;107;45;89;2;67;92
+2006-2007;3.04;           3.04 General government debt, % GDP*;Value;54;49;46.2;71.8;103;47.6;44
+2006-2007;3.04;           3.04 General government debt, % GDP*;Rank;68;60;56;89;105;58;53
+2006-2007;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Value;3.510764007;5.363657285;5.382982895;4.884791667;5.689577636;4.722332016;5.128717395
+2006-2007;4.06;           4.06 Business impact of HIV/AIDS, 1-7 (best);Rank;98;56;54;74;42;79;67
+2006-2007;4.05;           4.05 HIV prevalence, % adult pop.*;Value;2.6;0.1;0.4;<0.1;0.2;1.5;0.4
+2006-2007;4.05;           4.05 HIV prevalence, % adult pop.*;Rank;105;26;69;1;49;96;69
+2006-2007;4.1;           4.10 Primary education enrollment, net %*;Value;97.64;94.32;95.2;93.96;96.41;86.31;94.01
+2006-2007;4.1;           4.10 Primary education enrollment, net %*;Rank;24;48;43;52;37;88;50
+2006-2007;5.01;           5.01 Secondary education enrollment, gross %*;Value;29.36650986;64.11743348;70;85.8607377;98;77.33847334;73.45133564
+2006-2007;5.01;           5.01 Secondary education enrollment, gross %*;Rank;108;90;85;60;31;76;80
+2006-2007;5.02;           5.02 Tertiary education enrollment, gross %*;Value;3;17;29;29;47;41;10
+2006-2007;5.02;           5.02 Tertiary education enrollment, gross %*;Rank;103;81;59;59;35;40;92
+2006-2007;5.03;           5.03 Quality of the education system, 1-7 (best);Value;2.963152296;4.279530476;5.169406904;3.356649024;6.01802766;3.982905138;2.667735829
+2006-2007;5.03;           5.03 Quality of the education system, 1-7 (best);Rank;89;33;10;66;1;42;102
+2006-2007;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Value;3.658297952;4.696783925;4.847468354;4.690255952;6.204764678;4.22533532;3.524252088
+2006-2007;6.09;           6.09 Prevalence of trade barriers, 1-7 (best);Rank;101;47;40;48;2;73;111
+2006-2007;6.14;           6.14 Imports as a percentage of GDP*;Value;75.6;30;99.676;47.105;213.055;75.16;75
+2006-2007;6.14;           6.14 Imports as a percentage of GDP*;Rank;16;94;5;53;1;17;18
+2006-2007;8.06;           8.06 Soundness of banks, 1-7 (best);Value;4.194680851;4.494968736;5.811303577;5.121745155;6.463964753;5.216489899;4.719373703
+2006-2007;8.06;           8.06 Soundness of banks, 1-7 (best);Rank;117;103;47;78;21;71;96
+2006-2007;10.03;           10.03 GDP (PPP$ billions)*;Value;37235.58;948096.43;222375.4018;417583.0527;86438.32584;552935.6816;263434.623
+2006-2007;10.03;           10.03 GDP (PPP$ billions)*;Rank;74;15;35;25;58;20;32
+2006-2007;10.04;           10.04 Exports as a percentage of GDP*;Value;68.2;33;123.175;46.411;243.031;73.673;70.3
+2006-2007;10.04;           10.04 Exports as a percentage of GDP*;Rank;21;75;5;46;1;14;18
+2006-2007;10.01;           10.01 Domestic market size index, 1–7 (best)*;Value;3.590263323;5.420868544;4.43560457;4.963940081;3.83224132;5.132444066;4.717745989
+2006-2007;10.01;           10.01 Domestic market size index, 1–7 (best)*;Rank;76;15;42;25;65;20;32
+2006-2007;10.02;           10.02 Foreign market size index, 1–7 (best)*;Value;3.67533441;5.38586955;5.295283233;5.059638077;5.114538728;5.565634156;5.028684732
+2006-2007;10.02;           10.02 Foreign market size index, 1–7 (best)*;Rank;66;17;20;23;22;11;24
