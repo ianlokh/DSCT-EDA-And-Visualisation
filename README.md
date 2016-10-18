@@ -19,33 +19,33 @@ This data set is from the Global Competitiveness Report (GCR) 2014 conducted by 
 In this assignment, we will be looking only at the following countries, series and variables:
 
 Countries:
-•	Cambodia
-•	Indonesia
-•	Malaysia
-•	Philippines
-•	Singapore
-•	Thailand
-•	Vietnam
+- Cambodia
+- Indonesia
+- Malaysia
+- Philippines
+- Singapore
+- Thailand
+- Vietnam
 
 
 Series:
-•	Diversion of Public Funds
-•	Irregular Payments and Bribes
-•	Reliability of Police Services
-•	Inflation
-•	Soundness of Banks
-•	HIV Prevalence
-•	Quality of the Education System
-•	Primary, Secondary and Tertiary Education Enrollment
-•	GDP (US$ Billions)
-•	GDP per capita
-•	Domestic and Foreign Market Size Index
+- Diversion of Public Funds
+- Irregular Payments and Bribes
+- Reliability of Police Services
+- Inflation
+- Soundness of Banks
+- HIV Prevalence
+- Quality of the Education System
+- Primary, Secondary and Tertiary Education Enrollment
+- GDP (US$ Billions)
+- GDP per capita
+- Domestic and Foreign Market Size Index
 
 Variables:
-•	Series Code
-•	Series
-•	Value
-•	Rank
+- Series Code
+- Series
+- Value
+- Rank
 
 The codebook “WEF_GlobalCompetitivenessReport_2014-15.pdf” will provide an explanation on the variables and the description of the values.
 
